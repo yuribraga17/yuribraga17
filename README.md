@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @yuribraga17
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Sou o Yuri.braga17 no instagram.
+- 👀 Faço Analise e Desenvolvimento de sistemas.
+- 🌱 Estou aprimorando meus conhecimentos em diversas linguagens.
+- 💞️ Su desenvolvedor do Progressive Roleplay, SA-MP.
+- 📫 Para falar comigo, me chame no insta @yuri.braga17.
 
-<!---
-yuribraga17/yuribraga17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
