@@ -1,4 +1,4 @@
-- 👋 Sou o Yuri.braga17 no instagram.
+- 👋 Satisfação, Yuri Braga.
 - 👀 Faço Analise e Desenvolvimento de sistemas.
 - 🌱 Estou aprimorando meus conhecimentos em diversas linguagens.
 - 💞️ Su desenvolvedor do Progressive Roleplay, SA-MP.
