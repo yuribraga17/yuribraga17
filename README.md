@@ -45,7 +45,7 @@ class SobreMim extends Developer {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuribraga17&show_icons=true&theme=dracula&line_height=27" alt="**Dev yurs** github stats"/>
 </a>
 
-[website]: https://yurs-developer.io/
+[website]: http://yurs-developer.io/
 [twitter]: https://twitter.com/braga_balafina
 [youtube]: https://youtube.com/@yursgaming
 [instagram]: https://instagram.com/yuri.braga17
