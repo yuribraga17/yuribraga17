@@ -33,11 +33,11 @@ class SobreMim extends Developer {
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/yuribraga17">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuribraga17&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/yuribraga17">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuribraga17&show_icons=true&theme=dracula&line_height=27" alt="**Dev yurs** github stats"/>
 </a>
 
@@ -55,3 +55,4 @@ class SobreMim extends Developer {
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
+
