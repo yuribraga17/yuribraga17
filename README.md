@@ -1,6 +1,10 @@
-- 👋 Satisfação, Yuri Braga.
-- 👀 Faço Analise e Desenvolvimento de sistemas.
-- 🌱 Estou aprimorando meus conhecimentos em diversas linguagens.
-- 💞️ Su desenvolvedor do Progressive Roleplay, SA-MP.
-- 📫 Para falar comigo, me chame no insta @yuri.braga17.
+E aí, devs 👋
+Gosto de criar ótimos softwares, aplicações web e ajudar outras pessoas a fazer o mesmo.
 
+```import Desenvolvedor from 'Yuri';
+class SobreMim extends Desenvolvedor {
+  nome     = 'Yuri';
+  area    = 'Desenvolvimento fullstack';
+  trabalho  = 'Em casa';
+  local = 'Terra';
+}```
