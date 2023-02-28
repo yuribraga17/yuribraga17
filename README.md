@@ -38,7 +38,7 @@ class SobreMim extends Developer {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/yuribraga17">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuribraga17&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuribraga17&theme=radical&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/yuribraga17">
