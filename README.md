@@ -35,11 +35,11 @@ class SobreMim extends Developer {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/yuribraga17">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuribraga17&theme=radical&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuribraga17&theme=radical" />
 </a>
 
 <a href="https://github.com/yuribraga17">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuribraga17&count_private=true&show_icons=true&theme=radical&count_private=true&line_height=27" alt="**Dev YurS** github stats"/>
+ <img align="center" src="github-readme-stats.vercel.app/api?username=yuribraga17&count_private=true&show_icons=true&theme=radical" alt="**Dev YurS** github stats"/>
 </a>
 
 [website]: http://yurs-developer.io/
