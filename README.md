@@ -39,7 +39,7 @@ class SobreMim extends Developer {
 </a>
 
 <a href="https://github.com/yuribraga17">
- <img align="center" src="github-readme-stats.vercel.app/api?username=yuribraga17&count_private=true&show_icons=true&theme=radical" alt="**Dev YurS** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuribraga17&count_private=true&show_icons=true&theme=radical&line_height=27" alt="**Dev YurS** github stats"/>
 </a>
 
 [website]: http://yurs-developer.io/
