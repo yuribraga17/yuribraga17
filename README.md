@@ -33,14 +33,14 @@ class SobreMim extends Developer {
 
 
 ## **GitHub Estatísticas**
-
- <a href="https://github.com/yuribraga17"> 
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yuribraga17&theme=radical"/> 
-</a>
-
+<div>
 <a href="https://github.com/yuribraga17">
- <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yuribraga17&count_private=true&show_icons=true&theme=radical" alt="**Yuri Dev** github stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuribraga17&layout=compact&langs_count=7&theme=radical">
 </a>
+<a href="https://github.com/yuribraga17">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yuribraga17&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+</a>
+</div>
 
 [website]: https://yuri.lifeinvader.live/
 [twitter]: https://twitter.com/braga_balafina
@@ -56,3 +56,5 @@ class SobreMim extends Developer {
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
+
+![Snake animation](https://github.com/MatIketani/MatIketani/blob/output/github-contribution-grid-snake.svg)
