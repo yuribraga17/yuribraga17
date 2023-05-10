@@ -45,20 +45,14 @@ class SobreMim extends Developer {
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yuribraga17&show_icons=true&theme=radical&count_private=true">
 </a>
 </div>
-
-[website]: https://yuri.lifeinvader.live/
-[twitter]: https://twitter.com/braga_balafina
-[youtube]: https://youtube.com/@yursgaming
-[instagram]: https://instagram.com/yuri.braga17
-[linkedin]: https://linkedin.com/in/yuri-braga-780807a25b
 <br>
 
-#### Rede Sociais!
-
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+### Meus perfis nas redes sociais:
+ 
+<div> 
+  <a href="https://instagram.com/yuri.braga17" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://youtube.com/@yursgaming" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="yuribragasoares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href=https://linkedin.com/in/yuri-braga-780807a25b"" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ![Snake animation](https://github.com/MatIketani/MatIketani/blob/output/github-contribution-grid-snake.svg)
