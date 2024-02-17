@@ -11,7 +11,7 @@ import Developer from 'Yur$';
 class SobreMim extends Developer {
   nome     = 'Yuri Braga';
   area    = 'Developer Fullstack';
-  trabalho  = 'Em casa';
+  trabalho  = 'Legacy Network';
   local = 'Terra';
 }
 ```
