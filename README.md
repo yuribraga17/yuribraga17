@@ -4,7 +4,7 @@ Gosto de criar ótimos softwares, aplicações web e ajudar outras pessoas a faz
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img align="right" width="300" src="[https://camo.githubusercontent.com/4c8d92806e3c2322a2c390ffa0019c1d6f78a4d82108aa6946863ae362a763c8/68747470733a2f2f69322e77702e636f6d2f616c6c68746163636573732e696e666f2f77702d636f6e74656e742f75706c6f6164732f323031382f30332f70726f6772616d6d696e672e6769663f6669743d313238312532433731362673736c3d31](https://media1.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=82a1493bg1qhzca27xyziz7hkqrl0qg3p1f7p1r6kapdi4sw&ep=v1_gifs_search&rid=giphy.gif&ct=g)" />
+<img align="right" width="300" src="https://cdn.discordapp.com/attachments/1201227372381360188/1208218398392328252/giphy.png?ex=65e27c11&is=65d00711&hm=43cb01b74d0c48c236e01e9eaa32c875265903837a62400f78e04d931c06337f&" />
 
 ```js
 import Developer from 'Yur$';
