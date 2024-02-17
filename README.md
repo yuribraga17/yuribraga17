@@ -4,7 +4,7 @@ Gosto de criar ótimos softwares, aplicações web e ajudar outras pessoas a faz
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img align="right" width="300" src="https://cdn.discordapp.com/attachments/1201227372381360188/1208218398392328252/giphy.png?ex=65e27c11&is=65d00711&hm=43cb01b74d0c48c236e01e9eaa32c875265903837a62400f78e04d931c06337f&" />
+<img align="right" width="300" src="https://cdn.discordapp.com/attachments/1201227372381360188/1208218720351158382/image-asset.gif" />
 
 ```js
 import Developer from 'Yur$';
