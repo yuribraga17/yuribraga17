@@ -12,7 +12,7 @@ class SobreMim extends Developer {
   nome     = 'Yuri Braga';
   area    = 'Developer Fullstack';
   trabalho  = 'Legacy Network';
-  local = 'Terra';
+  local = 'Casa';
 }
 ```
 
