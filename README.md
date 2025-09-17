@@ -20,7 +20,7 @@ class YuriBraga {
   public nome: string = "Yuri Braga";
   public cargo: string = "Developer Full Stack";
   public empresa: string = "Flextor Network";
-  public localização: string = "São Paulo, Brasil";
+  public localização: string = "Minas Gerais, Brasil";
   
   public especialidades: string[] = [
     "Desenvolvimento Web",
