@@ -45,7 +45,7 @@ class SobreMim extends Developer {
 </a>
 </div>
 <br>
-
+ 
 ### Meus perfis nas redes sociais:
  
 <div> 
