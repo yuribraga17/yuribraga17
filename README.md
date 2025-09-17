@@ -34,6 +34,8 @@ class YuriBraga {
   public expertiseGaming: string[] = [
     "Lua Scripting para FiveM",
     "ESX/QBCore Frameworks",
+    "Creative Framework",
+    "VRPEX Framework",
     "Database Integration (MySQL)",
     "Custom Resources Development",
     "Server Performance Optimization"
