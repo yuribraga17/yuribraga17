@@ -139,7 +139,7 @@ class YuriBraga {
 <div align="center">
   
   [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yuribraga17&repo=backdoor-scanner&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=30363D)](https://github.com/yuribraga17/backdoor-scanner)
-  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yuribraga17&repo=bot-fiscal-preco&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=30363D)](https://github.com/yuribraga17/bot-fiscal-preco)
+  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yuribraga17&lb-upload-web&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=30363D)](https://github.com/yuribraga17/lb-upload-web)
 
 </div>
 
