@@ -121,7 +121,7 @@ class YuriBraga {
 ## 🏆 Conquistas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuribraga17&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=yuribraga17&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies"/>
 </div>
 
 
