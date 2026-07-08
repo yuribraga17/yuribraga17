@@ -62,14 +62,18 @@ class YuriBraga {
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </div>
 
 ### **Backend**
 <div align="left">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img alt="Fastify" src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white"/>
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 </div>
 
@@ -93,16 +97,20 @@ class YuriBraga {
   <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
   <img alt="FiveM" src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white"/>
   <img alt="vRP" src="https://img.shields.io/badge/vRP-7589D5?style=for-the-badge"/>
+  <img alt="oxmysql" src="https://img.shields.io/badge/oxmysql-161B22?style=for-the-badge"/>
   <img alt="GTA V" src="https://img.shields.io/badge/GTA_V_Modding-00D4AA?style=for-the-badge&logo=rockstargames&logoColor=white"/>
 </div>
 
-### **Ferramentas & Outros**
+### **DevOps & Ferramentas**
 <div align="left">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
 
 
@@ -120,8 +128,16 @@ class YuriBraga {
 
 ## 🏆 Conquistas
 
+<!--
+  A instância pública oficial de troféus às vezes fica com rate-limit.
+  Para ficar 100% estável, hospede a sua própria:
+    1. Faça um fork de ryo-ma/github-profile-trophy
+    2. Deploy no Vercel com um token (escopos: read:user + public_repo)
+    3. Troque o domínio abaixo pelo seu, ex.:
+       https://SEU-DOMINIO.vercel.app/?username=yuribraga17&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15&no-bg=true
+-->
 <div align="center">
-  <img src="https://github-profile-repo.vercel.app/?username=yuribraga17&theme=dark" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yuribraga17&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies"/>
 </div>
 
 
