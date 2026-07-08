@@ -128,16 +128,8 @@ class YuriBraga {
 
 ## 🏆 Conquistas
 
-<!--
-  A instância pública oficial de troféus às vezes fica com rate-limit.
-  Para ficar 100% estável, hospede a sua própria:
-    1. Faça um fork de ryo-ma/github-profile-trophy
-    2. Deploy no Vercel com um token (escopos: read:user + public_repo)
-    3. Troque o domínio abaixo pelo seu, ex.:
-       https://SEU-DOMINIO.vercel.app/?username=yuribraga17&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15&no-bg=true
--->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuribraga17&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies"/>
+  <img src="https://github-profile-repo.vercel.app/?username=yuribraga17&theme=tokyonight" alt="GitHub Trophies"/>
 </div>
 
 
